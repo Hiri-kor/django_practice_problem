@@ -1,1 +1,1 @@
-# django_practice_problem
+# django_practice_problem of SSAFY
